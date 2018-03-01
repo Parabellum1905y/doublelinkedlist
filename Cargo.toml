@@ -1,0 +1,6 @@
+[package]
+name = "doublelinkedlist"
+version = "0.1.0"
+authors = ["Luger <azazello369@gmail.com>"]
+
+[dependencies]
